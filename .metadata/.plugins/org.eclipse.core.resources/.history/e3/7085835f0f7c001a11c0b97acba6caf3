@@ -1,0 +1,17 @@
+package first.DemoHib;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        
+        A obj = new A();
+        obj.setId(1234);
+        obj.setName("himanshu");
+    }
+}

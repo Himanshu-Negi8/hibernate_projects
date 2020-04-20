@@ -505,3 +505,8 @@
 2020-04-12 12:14:20,345 [Worker-53: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\hibernate_proj\DemoHib\src\main\resources
 2020-04-12 12:14:20,346 [Worker-53: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-04-12 12:14:20,347 [Worker-53: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\hibernate_proj\DemoHib\src\test\resources
+2020-04-12 12:46:35,511 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 12:46:35,542 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\hibernate_proj\DemoHib\src\main\resources
+2020-04-12 12:46:35,558 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-12 12:46:35,558 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\hibernate_proj\DemoHib\src\test\resources
+2020-04-20 12:11:41,387 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

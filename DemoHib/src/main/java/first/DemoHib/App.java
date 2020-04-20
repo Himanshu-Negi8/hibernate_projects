@@ -32,7 +32,7 @@ public class App
         
         Transaction tx = session.beginTransaction();
         
-        obj = (A)session.get(A.class,1);
+        obj = (A)session.get(A.class,1); 
         
        
         session.delete(obj);
